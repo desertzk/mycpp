@@ -4,6 +4,9 @@
 #include<cstdlib>
 #include"lock_free_queue.h"
 #include <mutex>
+#include <chrono>
+
+
 
 using namespace std;
 //×ÔÐýËø°æ±¾
@@ -100,7 +103,7 @@ double sum_struct_b()
 static void print_number() {
 	while (true)
 	{
-		std::this_thread::sleep_for(1000ms);
+		std::this_thread::sleep_for(1s);
 
 
 		cout << sum_b_all << endl;
