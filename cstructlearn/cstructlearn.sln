@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cstructlearn", "cstructlearn\cstructlearn.vcxproj", "{34324414-F975-4765-8F83-979C0B6B58FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Debug|x64.ActiveCfg = Debug|x64
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Debug|x64.Build.0 = Debug|x64
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Debug|x86.Build.0 = Debug|Win32
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Release|x64.ActiveCfg = Release|x64
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Release|x64.Build.0 = Release|x64
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Release|x86.ActiveCfg = Release|Win32
+		{34324414-F975-4765-8F83-979C0B6B58FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BAC7F6E-D7FF-4142-B88C-DE0F5FE5FFEF}
+	EndGlobalSection
+EndGlobal

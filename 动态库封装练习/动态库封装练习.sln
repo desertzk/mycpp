@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态库封装练习", "动态库封装练习\动态库封装练习.vcxproj", "{7EB014EC-0A62-4048-92DB-7E040D8EEAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB014EC-0A62-4048-92DB-7E040D8EEAC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EB014EC-0A62-4048-92DB-7E040D8EEAC5}.Debug|Win32.Build.0 = Debug|Win32
+		{7EB014EC-0A62-4048-92DB-7E040D8EEAC5}.Release|Win32.ActiveCfg = Release|Win32
+		{7EB014EC-0A62-4048-92DB-7E040D8EEAC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
